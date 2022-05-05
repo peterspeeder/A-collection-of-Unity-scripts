@@ -1,2 +1,4 @@
 # A-collection-of-Unity-scripts
-A collection of must have game features 
+# An assortment of must have game features for fps projects 
+
+This can be used to jumpstart a new project or to add to an existing one. 
