@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Headbob : MonoBehaviour
 {
+    // make sure to have an empty in your playercontroller that holds the camera.
+    
+    
     [SerializeField] private bool enable = true;
     [SerializeField, Range(0, 0.1f)] private float amplitude = 0.015f;
     [SerializeField, Range(0, 30)] private float frequency = 10.0f;
